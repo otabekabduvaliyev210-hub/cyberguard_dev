@@ -1,6 +1,0 @@
-pyTelegramBotAPI
-python-dotenv
-requests
-opencv-python-headless
-numpy
-schedule
